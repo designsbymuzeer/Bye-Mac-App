@@ -92,8 +92,8 @@ struct AboutSettingsView: View {
             VStack(spacing: 0) {
                 // Links
                 VStack(spacing: 0) {
-                    LinkRow(icon: "globe", text: "Visit Website", url: "https://google.com")
-                    LinkRow(icon: "terminal.fill", text: "View Source Code", url: "https://github.com/designsbymuzeer/Bye-App-Mac")
+                    LinkRow(icon: "globe", text: "Visit Website", url: "https://designsbymuzeer.framer.website/")
+                    LinkRow(icon: "terminal.fill", text: "View Source Code", url: "https://github.com/designsbymuzeer/Bye-Mac-App")
                 }
                 .padding(.top, 15)
                 
