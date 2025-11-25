@@ -23,9 +23,13 @@ This project is simply my solution to a common community problem, and I'd love t
 
 | Main Popover View | Settings Panel |
 | :---: | :---: |
-| ![Screenshot of the Main Popover UI] | ![Screenshot of the Settings General and About Tabs] |
+| <img width="931" height="605" alt="Main UI look" src="https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31" />| <img width="412" height="605" alt="settings UI" src="https://github.com/user-attachments/assets/d0b22802-fb50-4d5d-b76a-1b16faf8d550" />|
 
 *Showcasing the glass-morphism and clean interface.*
+
+
+
+
 
 ## ✨ Key Features
 
