@@ -43,7 +43,7 @@ This project is simply my solution to a common community problem, and I'd love t
 
 ### Direct Download (Recommended for Users)
 
-1.  Download the latest **Bye.zip** file from the [Releases Page].
+1.  Download the latest **Bye.zip** file from the [Releases Page](https://github.com/designsbymuzeer/Bye-Mac-App/releases/tag/v1.0).
 2.  Unzip the file.
 3.  Drag the **Bye.app** file into your `/Applications` folder.
 4.  **Important:** On first run, you may need to **Right-Click** the app icon and select **Open** to bypass the "Unidentified Developer" warning.
