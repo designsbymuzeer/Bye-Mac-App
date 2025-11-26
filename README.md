@@ -1,10 +1,11 @@
-<img width="200" height="200" alt="Icon 512px" src="https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526" />
+<img width="120" height="120" alt="Icon 512px" src="https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526" />
 
 # Bye 👋 - Easily Bulk close your running apps.
 
 A native, open-source macOS utility to quit running applications instantly, built with SwiftUI.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=designsbymuzeer)](https://git.io/streak-stats)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 [![GitHub stars](https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social)](https://github.com/designsbymuzeer/Bye-Mac-App/stargazers)
