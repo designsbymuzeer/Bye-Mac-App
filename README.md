@@ -85,6 +85,8 @@ The first time the app is run, it needs permission to set up the necessary backg
 
 We welcome contributions, bug reports, and feature suggestions! Feel free to open an issue or submit a pull request.
 
-This project is licensed under the **MIT License**.
+Versions released after [Nov 27, 2025] are licensed under GPLv3."
+
+This project is licensed under the **GPLv3**.
 
 Designed, built, and maintained for the macOS community by [designsbymuzeer](https://designsbymuzeer.framer.website/).
