@@ -9,8 +9,8 @@ on:
 jobs:
   analyze:
     name: Analyze
-    # We must use macOS because we are building an Xcode project
-    runs-on: macos-latest
+    # We use macOS 13 because it is more stable for CodeQL scans right now
+    runs-on: macos-13
     permissions:
       actions: read
       contents: read
@@ -32,11 +32,10 @@ jobs:
         languages: ${{ matrix.language }}
         build-mode: manual
 
-    # THIS IS THE PART THAT FIXES YOUR ERROR
-    # We tell GitHub exactly how to build the app without signing it
+    # THIS IS THE CUSTOM BUILD STEP
     - name: Build macOS App
       env:
-        scheme: "Bye" # <--- REPLACE THIS WITH YOUR SCHEME NAME
+        scheme: "Bye" 
       run: |
         xcodebuild -scheme "$scheme" clean build \
         CODE_SIGN_IDENTITY="" \
