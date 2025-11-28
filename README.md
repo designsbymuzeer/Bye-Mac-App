@@ -7,6 +7,8 @@
 A native, open-source macOS utility to quit running applications instantly, built with SwiftUI.
 
 ---
+[![Download](https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?label=Download&style=for-the-badge)](https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest)
+
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 [![GitHub stars](https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social)](https://github.com/designsbymuzeer/Bye-Mac-App/stargazers)
