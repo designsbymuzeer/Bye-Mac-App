@@ -1,5 +1,7 @@
 <img width="120" height="120" alt="Icon 512px" src="https://github.com/user-attachments/assets/33bfcf78-0bd0-42b1-999b-a5b09b729526" />
 
+[![Build Verification](https://github.com/designsbymuzeer/Bye-Mac-App/actions/workflows/build.yml/badge.svg)](https://github.com/designsbymuzeer/Bye-Mac-App/actions/workflows/build.yml)
+
 # Bye 👋 - Easily Bulk close your running apps.
 
 A native, open-source macOS utility to quit running applications instantly, built with SwiftUI.
