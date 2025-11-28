@@ -1,0 +1,29 @@
+name: "Build Verification"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    name: Build App
+    runs-on: macos-latest # Uses the newest Xcode (compatible with your project)
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      
+      - name: Build App
+        env:
+          scheme: "Bye"  # Your Scheme Name
+        run: |
+          # This command builds the app just like Xcode does on your Mac
+          # It disables "Code Signing" so we don't need your Apple ID
+          xcodebuild clean build \
+            -scheme "$scheme" \
+            -destination "platform=macOS" \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO
