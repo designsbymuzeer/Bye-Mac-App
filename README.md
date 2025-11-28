@@ -94,3 +94,6 @@ Versions released after [Nov 27, 2025] are licensed under GPLv3."
 This project is licensed under the **GPLv3**.
 
 Designed, built, and maintained for the macOS community by [designsbymuzeer](https://designsbymuzeer.framer.website/).
+
+[![Buy me chai](https://i.ibb.co/Xkdj83y/image-2.png)](https://getmechai.vercel.app/link.html?vpa=aabmuzeer334@oksbi&nm=AbdulMuzeer&amt=20)
+
